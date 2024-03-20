@@ -1,4 +1,3 @@
-# praktikum-2-python-
 print("Bus PT.ANS Lintas Sumatera")
 print("TUJUAN\n1.Medan     : RP90000\n2.Padang    : RP20000\n3.Palembang : RP75000\n4.Aceh      : RP80000\n5.Jambi     : RP160000\n6.Riau      : RP120000\n")
 tj = int(input("Tujuan yang dipilih: "))
